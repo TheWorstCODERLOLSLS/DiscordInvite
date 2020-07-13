@@ -1,0 +1,1 @@
+"addresses": { "lprint": { "addy": 0x5F0AF0, "cc": "Cdecl" }, "nothing": { "addy": blank, "cc": "Cdecl" }
