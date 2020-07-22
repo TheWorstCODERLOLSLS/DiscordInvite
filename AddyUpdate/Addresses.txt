@@ -1,1 +1,1 @@
-{"addresses":{"lprint":{"addy":38388383, "cc":"cdecl"}}}
+{"addresses":{"lprint":{"addy":38388383}}}
