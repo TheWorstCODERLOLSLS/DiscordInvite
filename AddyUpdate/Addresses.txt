@@ -1,1 +1,1 @@
-{"addresses":{"lprint":{"addy":0x5F24B0}}}
+{"addresses":{"lprint":{"addy":6235312}}}
